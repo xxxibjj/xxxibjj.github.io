@@ -1,0 +1,16 @@
+const CONFIG = {
+    pageTitle: "My Baby Xin Yi",
+    popupTitle: '😏😏😏',
+    description: `I'm assuming you're here because you've been sent a link to this page by your laogong.`,
+    introButton: 'Click in for some cute time',
+    title: 'Will you go out with me for valentine?',
+    yesBtn: 'Yess 🥺',
+    noBtn: 'No :3',
+    question: 'Glad to know you feel the same way 😘😘 \n Now.. tell me why you love me ?',
+    sendBtn: 'Send',
+    reply: 'Cause what\'s there to not love about you? You\'re so cute, funny, and smart. You\'re the best thing that\'s ever happened to me. I love you so much 😘😘😘',
+    messPop: 'I know. I\'m just that good 😎😎😎',
+    messDesc: 'Now we\'re all set. Let\'s go eat some good food my baby. 👉👈',
+    btnAccept: 'Okiiiiieeee <3',
+    redirect: 'https://t.me/iamjj99',
+}
