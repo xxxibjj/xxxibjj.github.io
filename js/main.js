@@ -32,7 +32,7 @@ function firstQuestion() {
     Swal.fire({
         title: CONFIG.popupTitle,
         text: CONFIG.description,
-        imageUrl: 'img/me.gif',
+        imageUrl: 'img/edrick.jpg',
         imageWidth: 300,
         imageHeight: 300,
         imageAlt: 'Rando cute gif for waifu',
